@@ -1,0 +1,9 @@
+D:\Desktop\TestApp\TestApp\bin\Release\TestApp.exe.config
+D:\Desktop\TestApp\TestApp\bin\Release\TestApp.exe
+D:\Desktop\TestApp\TestApp\bin\Release\TestApp.pdb
+D:\Desktop\TestApp\TestApp\obj\Release\TestApp.mainWindow.resources
+D:\Desktop\TestApp\TestApp\obj\Release\TestApp.Properties.Resources.resources
+D:\Desktop\TestApp\TestApp\obj\Release\TestApp.csproj.GenerateResource.cache
+D:\Desktop\TestApp\TestApp\obj\Release\TestApp.csproj.CoreCompileInputs.cache
+D:\Desktop\TestApp\TestApp\obj\Release\TestApp.exe
+D:\Desktop\TestApp\TestApp\obj\Release\TestApp.pdb
